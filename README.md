@@ -17,3 +17,7 @@
 * Controller, service, and repository.
 * Pattern DTO.
 
+Main result for class I: 
+
+![Main result for class I](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam0ycmFvYjFzeG9oMmdxazM3M285d2g3Nmd3dXA2cDZkMWg4bGIyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DuGekBeTN2ajbhut0w/giphy.gif)
+
