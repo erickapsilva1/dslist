@@ -30,3 +30,4 @@ Main result for class I:
 
 Main result for class II: 
 
+![Main result for class II](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXMwbmR2NnRvbGthanN5Nzk3aWZndm9rbXdsb2R6NG8wZXRtcG41bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kRlNhDXriBrFQmpGB4/giphy.gif)
