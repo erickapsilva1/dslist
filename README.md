@@ -38,3 +38,10 @@ Main result for class II:
 * Local approval process
 * Deployment process with CI/CD
 * CORS configuration
+
+### Class IV
+
+* Endpoint design and implementation
+* HTTP verb and idempotency
+
+![Main result for class IV](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN4anFxYWNyMTJtbW43NmQybDBpaGNvaG9pOGs1OHBiazVyYzc1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PoJWkYGVcOkupWwSD/giphy.gif)
